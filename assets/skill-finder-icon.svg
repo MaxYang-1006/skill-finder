@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Skill Finder icon">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="64" x2="432" y2="448" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.58" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="needle" x1="198" y1="148" x2="314" y2="364" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#93C5FD"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="154" fill="none" stroke="#DBEAFE" stroke-width="24" opacity="0.95"/>
+  <circle cx="256" cy="256" r="106" fill="none" stroke="#93C5FD" stroke-width="10" opacity="0.45"/>
+  <path d="M305 152 275 276 158 331 211 211Z" fill="url(#needle)"/>
+  <path d="M305 152 275 276 354 354 333 225Z" fill="#0F172A" opacity="0.74"/>
+  <circle cx="256" cy="256" r="23" fill="#F8FAFC"/>
+  <path d="M377 95l11 31 31 11-31 11-11 31-11-31-31-11 31-11 11-31Z" fill="#FDE68A"/>
+  <path d="M128 374l7 19 19 7-19 7-7 19-7-19-19-7 19-7 7-19Z" fill="#BFDBFE"/>
+</svg>

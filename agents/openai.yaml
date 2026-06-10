@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill Finder"
+  short_description: "Recommend high-quality skills for each task."
+  icon_small: "./assets/skill-finder-icon.svg"
+  icon_large: "./assets/skill-finder-icon.svg"
+  brand_color: "#2563EB"
+  default_prompt: "Use $skill-finder to find the best Codex skills for my task, explain why they fit, and install the ones I approve."
